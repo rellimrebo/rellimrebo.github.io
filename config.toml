@@ -28,7 +28,7 @@ publishDir = "docs"
     disable = true
 
 [Author]
-  name = ""
+  name = "Andrew Obermiller"
 
 [params]
   description = ""
