@@ -1,6 +1,6 @@
 baseURL = "https://writingbyandrew.com/"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "Writing by Andrew"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false

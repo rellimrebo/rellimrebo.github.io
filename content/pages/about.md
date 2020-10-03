@@ -2,22 +2,14 @@
 title: About
 ---
 
-# Lines
+Hi there.
 
-Lines is a minimalistic Hugo blogging theme.
+I'm Andrew, and sometimes I like to write. 
 
-### Features
+This past year and half I've made a concerted effort to finish short stories I start. I'm hoping that posting on this ~~very clean and aesthetically pleasing~~ website will encourage me to keep writing as I watch the quality and quantity of my work grow over time. 
 
-- Minimalistic, clean and simple design
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Tags
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~2kb of CSS)
+Feel free to send me feedback through Instagram or email me at obermiller44 (at) gmail (dot) com.
+
+
+
+Also, quick shoutout to my friend Shane for teaching me how to set this up and struggling through Hugo with me. 
