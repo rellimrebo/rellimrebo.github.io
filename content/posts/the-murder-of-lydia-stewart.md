@@ -20,6 +20,4 @@ She went to class, turned in work on time, and that is the end of the story I kn
 
 Did she know then that I would be the one who ended it all? That I would choose the spot on the page that the words stopped? Looking up out of the photo, would she recognize the murder weapon tucked in my pocket?
 
-A silver smartphone. Over the eleven years I had “known” Lydia Stewart we had one point of hard contact, during that biology project. A single text sent on late on a Tuesday.  
-
 
