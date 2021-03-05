@@ -3,6 +3,10 @@ title: "The Murder of Lydia Stewart"
 description: ""
 date: "2021-02-27"
 ---
+
+*Note from the author: I started this around 6 months ago then immediately dropped it (so much for finishing writing projects). I saw it in my notes a few days ago and realized I wanted to write an end to it, even if it isn't the best. Enjoy!*
+
+
 The kids at school think that Lydia Stewart moved away, but I know better. Lydia died fourteen days ago on Friday, May the Twelfth. This would be an odd thing for me to know, save for two essential truths:
 
 1. I watched the hearse carry her body away
